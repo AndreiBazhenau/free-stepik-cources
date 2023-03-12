@@ -1,8 +1,8 @@
 # free-stepik-cources
 
 Подтянуть Python:
-https://stepik.org/67
-https://stepik.org/512
+ - https://stepik.org/67
+ - https://stepik.org/512
 
 Погрузиться в Linux:
 https://stepik.org/73
