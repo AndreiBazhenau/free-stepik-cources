@@ -27,14 +27,22 @@
  - https://stepik.org/50352 - нейронки + компьютерное зрение
  - https://stepik.org/54098 - нейронки + обработка естественного языка
  
-DE aAtterns
+Anchor Modeling 
+Ссылка на запись воркшопа: https://disk.yandex.ru/i/FApCtFs6ERskVQ
+
+Как обычно высылаю ссылки на дополнительные материалы:
+1. Обзор гибких методологий проектирования DWH: https://habr.com/ru/company/glowbyte/blog/515940/
+2. Введение в Data Vault: https://habr.com/ru/post/348188/
+3. База информации по якорной модели: https://www.anchormodeling.com/ 
+4. Опыт Avito по внедрению якорной модели: https://habr.com/ru/company/avito/blog/322510/
+5. Опыт внедрения гибридной модели Сибур: https://sibur.digital/84-osobennosti-data-driven-v-neftekhimii
+6. Опыт внедрения гибридной модели Яндекс.Go: https://habr.com/ru/company/yandex/blog/557140/
+ 
+DE Patterns
 По ссылке можете ознакомиться с записью.
 https://disk.yandex.ru/i/BctnSXti9z6h4Q
 
-
 - AWS Big Data Blog(https://aws.amazon.com/blogs/big-data/) - много разных статей про работу с данными в AWS, например про использование AWS Athena в ETL(https://aws.amazon.com/blogs/big-data/build-and-orchestrate-etl-pipelines-using-amazon-athena-and-aws-step-functions/)
-
-
 
  
 Kafka
