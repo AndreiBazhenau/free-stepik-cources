@@ -27,7 +27,17 @@
  - https://stepik.org/50352 - нейронки + компьютерное зрение
  - https://stepik.org/54098 - нейронки + обработка естественного языка
  
- Kafka
+DE aAtterns
+По ссылке можете ознакомиться с записью.
+https://disk.yandex.ru/i/BctnSXti9z6h4Q
+
+
+- AWS Big Data Blog(https://aws.amazon.com/blogs/big-data/) - много разных статей про работу с данными в AWS, например про использование AWS Athena в ETL(https://aws.amazon.com/blogs/big-data/build-and-orchestrate-etl-pipelines-using-amazon-athena-and-aws-step-functions/)
+
+
+
+ 
+Kafka
 1. Доделать практическую часть воркшопа (решение есть в папке solutions); 
 2. Посмотреть видео о внутренней архитектуре Kafka от Confluent: https://developer.confluent.io/learn-kafka/. 
 3. Книга Kafka: The Definitive Guide: https://www.oreilly.com/library/view/kafka-the-definitive/9781491936153/. 
